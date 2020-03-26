@@ -1,7 +1,10 @@
-Zach Rooney
-CS 1C Project 2
+CustomAlgorithm Assignment
 
-project folder: rooneyz-project02
+This project was to design an algorithm to find the best combination from a master list for the user. The algorithm was 
+tested with a list of groceries with prices and then given a budget. It returns a list that will maximize the amount
+of groceries that can be purchased. It was also tested with a list of songs and a desired playlist duration. It returns
+the first combination of songs that are closest or equal to the duration and returns them as a list. The main class is the
+SubSetSum class
 
 
 Brief description of submitted files:
